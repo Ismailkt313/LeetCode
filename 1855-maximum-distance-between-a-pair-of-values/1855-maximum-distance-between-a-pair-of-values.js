@@ -15,7 +15,7 @@ var maxDistance = function(nums1, nums2) {
             j++
         }else{
             i++
-            // j=i
+            j++
         }
     }
     return sum
