@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ismailkt313/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Ismailkt313/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Ismailkt313/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
