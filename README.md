@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ismailkt313/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ismailkt313/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/Ismailkt313/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ismailkt313/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
