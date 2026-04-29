@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ismailkt313/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ismailkt313/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Ismailkt313/LeetCode/tree/main/0415-add-strings/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
