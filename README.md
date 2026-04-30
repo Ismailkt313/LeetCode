@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ismailkt313/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0415-add-strings](https://github.com/Ismailkt313/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ismailkt313/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
