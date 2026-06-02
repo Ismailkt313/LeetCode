@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ismailkt313/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0605-can-place-flowers](https://github.com/Ismailkt313/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ismailkt313/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Ismailkt313/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
