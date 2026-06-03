@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ismailkt313/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Ismailkt313/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Ismailkt313/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ismailkt313/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ismailkt313/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ismailkt313/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
