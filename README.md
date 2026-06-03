@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Ismailkt313/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Ismailkt313/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Ismailkt313/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
