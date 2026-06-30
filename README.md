@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ismailkt313/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0415-add-strings](https://github.com/Ismailkt313/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ismailkt313/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ismailkt313/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -119,4 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ismailkt313/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ismailkt313/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ismailkt313/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ismailkt313/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ismailkt313/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
