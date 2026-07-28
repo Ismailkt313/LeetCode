@@ -135,4 +135,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ismailkt313/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
