@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ismailkt313/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ismailkt313/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ismailkt313/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ismailkt313/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 ## Math
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ismailkt313/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ismailkt313/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ismailkt313/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ismailkt313/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ismailkt313/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ismailkt313/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Ismailkt313/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ismailkt313/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ismailkt313/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ismailkt313/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
