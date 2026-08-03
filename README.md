@@ -152,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ismailkt313/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ismailkt313/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Ismailkt313/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ismailkt313/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ismailkt313/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
