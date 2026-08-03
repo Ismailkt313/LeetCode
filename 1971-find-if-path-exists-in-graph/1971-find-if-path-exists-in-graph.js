@@ -24,6 +24,7 @@ var validPath = function(n, edges, source, destination) {
         if(start == destination){
              reached =  true
         }
+        seen.add(start)
         for(let val of graph[start]){
             if(!seen.has(val)){
                 seen.add(val)
