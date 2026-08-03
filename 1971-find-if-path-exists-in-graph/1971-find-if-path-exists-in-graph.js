@@ -22,8 +22,7 @@ var validPath = function(n, edges, source, destination) {
     let reached = false
      function dfs(start,graph,seen){
         if(start == destination){
-            console.log("reached herer")
-            reached =  true
+             reached =  true
         }
         for(let val of graph[start]){
             if(!seen.has(val)){
