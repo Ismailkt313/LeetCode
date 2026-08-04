@@ -16,7 +16,6 @@ var findMissingElements = function(nums) {
             maxVal=nums[i]
         }
     }
-    console.log(minVal,maxVal)
 
     let arr = new Set(nums)
     let res = []
