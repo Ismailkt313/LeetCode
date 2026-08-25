@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ismailkt313/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ismailkt313/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ismailkt313/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ismailkt313/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ismailkt313/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ismailkt313/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Ismailkt313/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Ismailkt313/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ismailkt313/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ismailkt313/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
