@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ismailkt313/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ismailkt313/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ismailkt313/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
